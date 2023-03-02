@@ -1,0 +1,13 @@
+sphinx
+sphinx-argparse
+sphinx-rtd-theme
+sphinxcontrib-napoleon
+chardet==3.0.4
+# for umap
+matplotlib
+seaborn
+pandas
+umap-learn
+
+setuptools==59.5.0
+protobuf==3.19

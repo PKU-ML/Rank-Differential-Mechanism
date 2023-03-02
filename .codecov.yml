@@ -1,0 +1,14 @@
+comment:
+  layout: "flags, files"
+  behavior: default
+  require_changes: false  
+  require_base: no
+  require_head: no
+  show_carryforward_flags: true
+
+flag_management:
+  default_rules:
+    carryforward: true
+
+coverage:
+  range: 40...100 # custom range of coverage colors from red -> yellow -> green
