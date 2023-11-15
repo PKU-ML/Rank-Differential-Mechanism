@@ -1,7 +1,7 @@
 
 # Towards a Unified Theoretical Understanding of Non-contrastive Learning via Rank Differential Mechanism
 
-This is a PyTorch implementation of ICLR 2023 paper [Towards a Unified Theoretical Understanding of Non-contrastive Learning via Rank Differential Mechanism](https://openreview.net/forum?id=cIbjyd2Vcy) authored by Zhijian Zhuo, Yifei Wang, Jinwen Ma, [Yisen Wang](https://yisenwang.github.io/).
+This is a PyTorch implementation of ICLR 2023 paper [Towards a Unified Theoretical Understanding of Non-contrastive Learning via Rank Differential Mechanism](https://openreview.net/forum?id=cIbjyd2Vcy) authored by Zhijian Zhuo, [Yifei Wang](yifeiwang77.com), Jinwen Ma, [Yisen Wang](https://yisenwang.github.io/).
 
 ## Abstract
 
